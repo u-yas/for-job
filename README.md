@@ -2,9 +2,6 @@
 現在、帝京大学理工学部通信課程に通っております。2022年3月に卒業予定となっております。
 大学に入学時よりプログラミング等を始め、現在（2021年1月時点）はPeSuMiという連載型のデジタルノベルを配信するプラットフォームを[Blitz.js](https://github.com/blitz-js/blitz)を利用し、開発しております。また、投稿用のデジタルノベルを開発するためのツールである[PeSuMi Editor](https://github.com/u-yas/pesumi-editor)も、[Electron(React.js/Next.js)](https://github.com/vercel/next.js/tree/canary/examples/with-electron)を元に開発しております。
 
-## 求職にあたっての動機
-プラットフォームを開発するにあたってのサーバ費用捻出のため。
-
 ## 職歴
 通信課程であったため、正社員勤務が可能でした。そのため、2020年4月から8月まで、SES企業に勤務しておりました。常駐先ではUiPath、Excelなどを利用した業務の自動化や、それに伴う要件定義などのお仕事をさせていただきました。
 
